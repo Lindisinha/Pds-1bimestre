@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\App.xaml
-31737867338
+7482885049
 
-61661330956
+10341188241
 198155382431
-ConectarConta.xaml;MainWindow.xaml;telaInicial.xaml;
+cadsAluno.xaml;cadsCurso.xaml;cadsEscola.xaml;cadsTurma.xaml;ConectarConta.xaml;MainWindow.xaml;telaInicial.xaml;
 
 False
 

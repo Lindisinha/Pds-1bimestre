@@ -7,6 +7,18 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="cadsAluno.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="cadsCurso.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="cadsEscola.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="cadsTurma.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ConectarConta.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +27,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="cadsAluno.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="cadsCurso.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="cadsEscola.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="cadsTurma.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="ConectarConta.xaml">
       <SubType>Designer</SubType>
     </Page>

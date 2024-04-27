@@ -26,22 +26,30 @@ namespace pds_projeto_escola
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            cadsEscola cadsEscola = new cadsEscola();
+            this.Close();
+            cadsEscola.ShowDialog();  
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-
+            cadsAluno cadsAluno = new cadsAluno();
+            this.Close();
+            cadsAluno.ShowDialog();
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-
+            cadsCurso cadsCurso = new cadsCurso();
+            this.Close();
+            cadsCurso.ShowDialog();
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-
+            cadsTurma cadsTurma = new cadsTurma();
+            this.Close();
+            cadsTurma.ShowDialog();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

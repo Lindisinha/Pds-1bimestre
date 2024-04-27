@@ -10,10 +10,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="CadasAluno.png" />
+    <None Remove="CadasCurso.png" />
+    <None Remove="CadasEscola.png" />
+    <None Remove="CadastCurso.png" />
+    <None Remove="pds4.png" />
     <None Remove="TelaInicio.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="CadasAluno.png" />
+    <Resource Include="CadasCurso.png" />
+    <Resource Include="CadasEscola.png" />
+    <Resource Include="CadastCurso.png" />
+    <Resource Include="pds4.png" />
     <Resource Include="TelaInicio.png" />
   </ItemGroup>
 

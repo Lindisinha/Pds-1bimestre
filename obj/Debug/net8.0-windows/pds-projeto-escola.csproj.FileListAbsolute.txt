@@ -23,3 +23,11 @@ C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\ref\pds-projeto-escola.dll
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\telaInicial.g.cs
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\telaInicial.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsAluno.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsCurso.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsEscola.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsTurma.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsAluno.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsCurso.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsEscola.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsTurma.baml

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\telainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:telainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\conectarconta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:conectarconta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "telaInicial.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml",
+              "RelativeDocumentMoniker": "telaInicial.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml",
+              "RelativeToolTip": "telaInicial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T19:24:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConectarConta.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\ConectarConta.xaml",
+              "RelativeDocumentMoniker": "ConectarConta.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\ConectarConta.xaml",
+              "RelativeToolTip": "ConectarConta.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T19:20:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T19:16:41.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

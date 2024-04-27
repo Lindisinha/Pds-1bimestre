@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pds-projeto-escola/1.0.0": {
+        "runtime": {
+          "pds-projeto-escola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pds-projeto-escola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

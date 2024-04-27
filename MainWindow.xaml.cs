@@ -20,5 +20,19 @@ namespace pds_projeto_escola
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            telaInicial telaInicial = new telaInicial();
+            this.Close();
+            telaInicial.ShowDialog();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            ConectarConta telaConectar = new ConectarConta();
+            this.Close();
+            telaConectar.ShowDialog();
+        }
     }
 }

@@ -1,0 +1,175 @@
+﻿<Window x:Class="pds_projeto_escola.telaInicial"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pds_projeto_escola"
+        mc:Ignorable="d"
+        Title="Tela Inicial" Height="450" Width="800">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="#526D82" Grid.ColumnSpan="2" Margin="0,-7,615,7">
+
+        </Grid>
+
+        <StackPanel Grid.Column="0" Margin="3,0,3,0" 
+                     VerticalAlignment="Center" Height="379">
+            <TextBlock Text="Cadastrar:" Foreground="#fff" HorizontalAlignment="Center" FontSize="16" FontFamily="Gugi" Margin="0,6,0,-21" Grid.Column="1" />
+            <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,30,100,20" Width="96" Height="28" Click="Button_Click_1">
+
+                <WrapPanel>
+                    <TextBlock Foreground="#fff">+ Escola</TextBlock>
+                </WrapPanel>
+
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="0"/>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+
+            <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_2">
+
+                <WrapPanel>
+                    <TextBlock Foreground="#fff">+ Aluno</TextBlock>
+                </WrapPanel>
+
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="0"/>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+            <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_3">
+
+                <WrapPanel>
+                    <TextBlock Foreground="#fff">+ Curso</TextBlock>
+                </WrapPanel>
+
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="0"/>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+            <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_4">
+
+                <WrapPanel>
+                    <TextBlock Foreground="#fff">+ Turma</TextBlock>
+                </WrapPanel>
+
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="0"/>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+
+            <StackPanel Height="147"  Margin="0,-4,0,0">
+                <TextBlock Text="Consultar:" Foreground="#fff" HorizontalAlignment="Center" FontSize="16" FontFamily="Gugi" Margin="0,6,0,-21" Grid.Column="1" />
+                <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,30,100,20" Width="96" Height="28" Click="Button_Click">
+
+                    <WrapPanel>
+                        <TextBlock Foreground="#fff">Escolas</TextBlock>
+                    </WrapPanel>
+
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="0"/>
+                        </Style>
+                    </Button.Resources>
+
+                </Button>
+
+                <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_5">
+
+                    <WrapPanel>
+                        <TextBlock Foreground="#fff">Alunos</TextBlock>
+                    </WrapPanel>
+
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="0"/>
+                        </Style>
+                    </Button.Resources>
+
+                </Button>
+                <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_6">
+
+                    <WrapPanel>
+                        <TextBlock Foreground="#fff">Cursos</TextBlock>
+                    </WrapPanel>
+
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="0"/>
+                        </Style>
+                    </Button.Resources>
+
+                </Button>
+                <Button Grid.Column="0" Padding="2" FontSize="14"  FontFamily="Gugi" Background="#526D82" BorderBrush="Transparent" Margin="0,-20,100,20" Width="96" Height="28" Click="Button_Click_7">
+
+                    <WrapPanel>
+                        <TextBlock Foreground="#fff">Turma</TextBlock>
+                    </WrapPanel>
+
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="0"/>
+                        </Style>
+                    </Button.Resources>
+
+                </Button>
+            </StackPanel>
+
+            <StackPanel Grid.Column="0" Margin="10,30,10,0" 
+             VerticalAlignment="Center">
+                <Button Padding="3"
+                 FontSize="14"  FontFamily="Gugi" Background="#27374D"
+                 BorderBrush="Transparent" Width="97" Height="35" Click="Button_Click_8">
+
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="20"/>
+                        </Style>
+                    </Button.Resources>
+
+                    <WrapPanel>
+                        <TextBlock Foreground="White"><Run Text="Sair"/></TextBlock>
+                    </WrapPanel>
+
+                </Button>
+
+            </StackPanel>
+
+        </StackPanel>
+
+
+
+
+        <StackPanel Grid.Column="1" Margin="10,-192,10,0" 
+                     VerticalAlignment="Top" Height="619">
+
+            <TextBlock Text="Comece já!" Foreground="#27374D" HorizontalAlignment="Center" FontSize="20" FontFamily="Gugi" Margin="0,250,0,-21" Grid.Column="1" />
+
+            <Grid Height="340" RenderTransformOrigin="0.356,0.346"/>
+
+            <Image Grid.Column="1" HorizontalAlignment="Left" Height="308" Margin="100,-300,0,0" Width="399" RenderTransformOrigin="0.511,0.554" Source="/TelaInicio.png"/>
+
+
+            <Grid Margin="0 2" VerticalAlignment="Center"/>
+
+        </StackPanel>
+
+
+    </Grid>
+
+</Window>

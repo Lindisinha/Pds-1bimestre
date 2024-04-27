@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\pds-projeto-escola\\pds-projeto-escola.csproj",
+      "projectUniqueName": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\pds-projeto-escola.csproj",
       "projectName": "pds-projeto-escola",
-      "projectPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\pds-projeto-escola\\pds-projeto-escola.csproj",
+      "projectPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\pds-projeto-escola.csproj",
       "packagesPath": "C:\\Users\\teixe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\pds-projeto-escola\\obj\\",
+      "outputPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

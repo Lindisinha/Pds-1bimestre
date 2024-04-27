@@ -9,4 +9,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="TelaInicio.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="TelaInicio.png" />
+  </ItemGroup>
+
 </Project>

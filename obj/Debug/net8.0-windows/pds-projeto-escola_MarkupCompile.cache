@@ -1,5 +1,5 @@
 ﻿pds-projeto-escola
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\App.xaml
 31737867338
 
-81137348352
+61661330956
 198155382431
 ConectarConta.xaml;MainWindow.xaml;telaInicial.xaml;
 

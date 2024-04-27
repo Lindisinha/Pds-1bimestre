@@ -22,6 +22,18 @@
     <Compile Update="ConectarConta.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="consAlunos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="consCurso.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="consEscola.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="consTurma.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="telaInicial.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -40,6 +52,18 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ConectarConta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="consAlunos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="consCurso.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="consEscola.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="consTurma.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

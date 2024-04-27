@@ -1,0 +1,61 @@
+﻿<Window x:Class="pds_projeto_escola.consTurma"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pds_projeto_escola"
+        mc:Ignorable="d"
+        Title="Consulta Turma" Height="450" Width="800">
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="#526D82">
+
+        </Grid>
+
+        <StackPanel Grid.Column="0" Margin="3,0,3,0" 
+             VerticalAlignment="Center" Height="379">
+            <TextBlock Text="Consulta de Turmas" Foreground="#fff" HorizontalAlignment="Center" FontSize="20" FontFamily="Gugi" Margin="0,30,0,0" Grid.Column="1" />
+
+            <StackPanel Height="200"  Margin="0,10,0,50">
+                <Image Height="140" Width="158" Source="/consTurma.png"/>
+            </StackPanel>
+
+            <Button Padding="3" FontSize="14"  FontFamily="Gugi" Background="#27374D" BorderBrush="Transparent" Width="97" Height="35" Click="Button_Click">
+
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </Button.Resources>
+
+                <WrapPanel>
+                    <TextBlock Foreground="White"><Run Text="Voltar"/></TextBlock>
+                </WrapPanel>
+
+            </Button>
+
+        </StackPanel>
+
+
+
+
+
+
+        <StackPanel Grid.Column="1" Margin="10,10,10,0" VerticalAlignment="Top" Height="417">
+
+
+            <Grid Margin="0,0,0,0" VerticalAlignment="Center"/>
+            <DataGrid Height="100" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+            <Grid/>
+
+
+        </StackPanel>
+
+
+    </Grid>
+
+</Window>

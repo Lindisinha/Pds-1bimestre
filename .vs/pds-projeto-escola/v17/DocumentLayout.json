@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadsturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadsturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\conscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:conscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\consturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:consturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\consalunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:consalunos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\consescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:consescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadsaluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadsaluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadsescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadsescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadsturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadsturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\telainicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:telainicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadscurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\cadsescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:cadsescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\telainicial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\conectarconta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:conectarconta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|c:\\users\\teixe\\onedrive\\documentos\\github\\pds-1bimestre\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1EF1CBB9-6FEE-4FB4-A0C5-48557E84B530}|pds-projeto-escola.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +54,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "consTurma.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consTurma.xaml",
+              "RelativeDocumentMoniker": "consTurma.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consTurma.xaml",
+              "RelativeToolTip": "consTurma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:35:03.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "consCurso.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consCurso.xaml",
+              "RelativeDocumentMoniker": "consCurso.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consCurso.xaml",
+              "RelativeToolTip": "consCurso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:34:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consAlunos.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consAlunos.xaml",
+              "RelativeDocumentMoniker": "consAlunos.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consAlunos.xaml",
+              "RelativeToolTip": "consAlunos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:34:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "consEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consEscola.xaml",
+              "RelativeDocumentMoniker": "consEscola.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\consEscola.xaml",
+              "RelativeToolTip": "consEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:34:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "cadsTurma.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsTurma.xaml",
               "RelativeDocumentMoniker": "cadsTurma.xaml",
@@ -58,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "cadsCurso.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsCurso.xaml",
               "RelativeDocumentMoniker": "cadsCurso.xaml",
@@ -70,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "cadsAluno.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsAluno.xaml",
               "RelativeDocumentMoniker": "cadsAluno.xaml",
@@ -82,44 +142,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "cadsEscola.xaml",
-              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsEscola.xaml",
-              "RelativeDocumentMoniker": "cadsEscola.xaml",
-              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsEscola.xaml",
-              "RelativeToolTip": "cadsEscola.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-27T23:06:48.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "telaInicial.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml.cs",
-              "RelativeDocumentMoniker": "telaInicial.xaml.cs",
-              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml.cs",
-              "RelativeToolTip": "telaInicial.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T23:05:42.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "telaInicial.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml",
               "RelativeDocumentMoniker": "telaInicial.xaml",
               "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\telaInicial.xaml",
               "RelativeToolTip": "telaInicial.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-27T19:24:01.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T19:24:01.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ConectarConta.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\ConectarConta.xaml",
               "RelativeDocumentMoniker": "ConectarConta.xaml",
@@ -130,14 +164,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-27T19:16:41.562Z"
+              "WhenOpened": "2024-04-27T19:16:41.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cadsEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsEscola.xaml",
+              "RelativeDocumentMoniker": "cadsEscola.xaml",
+              "ToolTip": "C:\\Users\\teixe\\OneDrive\\Documentos\\GitHub\\Pds-1bimestre\\cadsEscola.xaml",
+              "RelativeToolTip": "cadsEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:06:48.604Z"
             }
           ]
         }

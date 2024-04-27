@@ -14,6 +14,11 @@
     <None Remove="CadasCurso.png" />
     <None Remove="CadasEscola.png" />
     <None Remove="CadastCurso.png" />
+    <None Remove="consAluno.png" />
+    <None Remove="consCurso.png" />
+    <None Remove="consEscola.png" />
+    <None Remove="consTurma.png" />
+    <None Remove="ConsultEscola.png" />
     <None Remove="pds4.png" />
     <None Remove="TelaInicio.png" />
   </ItemGroup>
@@ -23,6 +28,11 @@
     <Resource Include="CadasCurso.png" />
     <Resource Include="CadasEscola.png" />
     <Resource Include="CadastCurso.png" />
+    <Resource Include="consAluno.png" />
+    <Resource Include="consCurso.png" />
+    <Resource Include="consEscola.png" />
+    <Resource Include="consTurma.png" />
+    <Resource Include="ConsultEscola.png" />
     <Resource Include="pds4.png" />
     <Resource Include="TelaInicio.png" />
   </ItemGroup>

@@ -54,22 +54,30 @@ namespace pds_projeto_escola
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            consEscola consEscola = new consEscola();
+            this.Close();
+            consEscola.ShowDialog();
         }
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
-
+            consAlunos consAlunos = new consAlunos();
+            this.Close();
+            consAlunos.ShowDialog();
         }
 
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
-
+            consCurso consCurso = new consCurso();
+            this.Close();
+            consCurso.ShowDialog();
         }
 
         private void Button_Click_7(object sender, RoutedEventArgs e)
         {
-
+            consTurma consTurma = new consTurma();
+            this.Close();
+            consTurma.ShowDialog();
         }
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {

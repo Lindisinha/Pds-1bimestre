@@ -31,3 +31,11 @@ C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsCurso.baml
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsEscola.baml
 C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\cadsTurma.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consAlunos.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consCurso.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consEscola.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consTurma.g.cs
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consAlunos.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consCurso.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consEscola.baml
+C:\Users\teixe\OneDrive\Documentos\GitHub\Pds-1bimestre\obj\Debug\net8.0-windows\consTurma.baml
